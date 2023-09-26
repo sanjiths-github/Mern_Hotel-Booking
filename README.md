@@ -20,6 +20,15 @@ Admin side
 * Admin can update rooms and hotels
 * Admin can delete users,rooms and hotels
 
+Technology used :-
+  * Reactjs
+  * Bootstrap
+  * Node.js
+  * Express
+  * Mongodb
+  * Jwt
+
+
 
 
 
